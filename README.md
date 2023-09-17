@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan Manuel Montoya Giraldo</h1>
-<h3 align="center">A passionate fullstack developer from Colombia</h3>
+<h1 align="center"> Hi 👋, I'm Juan Manuel Montoya Giraldo</h1>
+<h3 align="center"> A passionate fullstack developer from Colombia</h3>
 
 - 🌱 I’m currently learning **react native , flutter, python**
 
